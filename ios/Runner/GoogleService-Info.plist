@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>182521096420-d4macvjuvt5u70ml7gs4f8j236rmgvhi.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.182521096420-d4macvjuvt5u70ml7gs4f8j236rmgvhi</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBD5Re6Bm_nNCUWnXjyumv4qgEcT6UcB_U</string>
+	<key>GCM_SENDER_ID</key>
+	<string>182521096420</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.melihozsoy.rehbernotlari</string>
+	<key>PROJECT_ID</key>
+	<string>rehbernotlari-6aba3</string>
+	<key>STORAGE_BUCKET</key>
+	<string>rehbernotlari-6aba3.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:182521096420:ios:ea76e5d4d3c3bc9f56a4f1</string>
+	<key>DATABASE_URL</key>
+	<string>https://rehbernotlari-6aba3.firebaseio.com</string>
+</dict>
+</plist>
